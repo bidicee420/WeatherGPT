@@ -1,0 +1,6 @@
+{
+  "name": "WeatherGPT",
+  "description": "Conversational AI for real-time weather forecasting, severe alerts, multi-hop route travel advisories, and 10-year climate anomaly comparisons powered by Gemini and Open-Meteo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
